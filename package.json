@@ -1,0 +1,9 @@
+{
+  "name": "flowchart",
+  "version": "0.0.0",
+  "description": "Flowchart",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
